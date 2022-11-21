@@ -1,0 +1,19 @@
+#!/bin/bash
+
+
+sleep 4s
+
+echo "bem-vindo ao Setup"
+
+echo "Instalando dependencias online"
+
+sleep 5s
+
+echo "Leva apenas 4 a 5minutos
+
+
+
+
+pip install virtualenv
+
+pip3 install virtualenv
