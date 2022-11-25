@@ -1,5 +1,5 @@
 
-## Instação ⚙️
+## Instação ⚙️ ```Termux```
 
 
 ```
