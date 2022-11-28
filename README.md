@@ -2,7 +2,7 @@
 ## Instação ⚙️ ```Termux```
 
 
-    ```apt install python3.10-venv```
+# OBRIGRATORIO    ```apt install python3.10-venv```
 
 
 ```
