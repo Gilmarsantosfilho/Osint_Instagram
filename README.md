@@ -78,8 +78,8 @@ O Osintgram oferece um shell interativo para realizar análises na conta do Inst
 - wcommented      Obtenha uma lista de usuários que comentaram as fotos do alvo
 - wtagged        Obtenha uma lista de usuários que marcaram o alvo
 ```    
-
-    # Como Usar tanto do ```linux``` ou ```termux```
+    
+# Como Usar tanto do ```linux``` ou ```termux```
 
 ```
 python3 main.py gilmar034 
