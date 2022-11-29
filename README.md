@@ -56,5 +56,22 @@ pip install -r requirements.txt
 python3 gilmarfilho
 ```
 
+-----------------------
+
+# Ferramentas e comandos 🧰
+
+O Osintgram oferece um shell interativo para realizar análises na conta do Instagram de qualquer usuário por seu apelido. Você pode ter:
+
+```text
+- addrs           Obtenha todos os registrados endereçados por fotos de destino
+- captions        Obter legendas de fotos do usuário
+- comments        Obtenha o total de comentários das postagens do alvo
+- followers       Obtenha seguidores alvo
+- followings      Obter usuários seguidos por destino
+- fwersemail      Receba e-mail de seguidores alvo
+- fwingsemail     Obter e-mail de usuários seguidos por destino
+- fwersnumber     Obtenha o número de telefone dos seguidores de destino
+- fwingsnumber    Obtenha o número de telefone dos usuários seguido pelo destino
+
 
 
