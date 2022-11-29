@@ -50,12 +50,6 @@ python3 -m venv venv
 pip install -r requirements.txt
 ```
 
-# Como Usar tanto do ```linux``` ou ```termux```
-
-```
-python3 gilmarfilho
-```
-
 -----------------------
 
 # Ferramentas e comandos 🧰
@@ -72,6 +66,23 @@ O Osintgram oferece um shell interativo para realizar análises na conta do Inst
 - fwingsemail     Obter e-mail de usuários seguidos por destino
 - fwersnumber     Obtenha o número de telefone dos seguidores de destino
 - fwingsnumber    Obtenha o número de telefone dos usuários seguido pelo destino
+- hashtags       Obtenha hashtags usadas pelo alvo
+- info           Obter informações de destino
+- likes          Obtenha curtidas totais das postagens do alvo
+- mediatype       Obtenha o tipo de postagem do usuário (foto ou vídeo)
+- photodes        Obtenha a descrição das fotos do alvo
+- photos          Baixe as fotos do usuário na pasta de saída
+- propic          Baixe a foto do perfil do usuário
+- stories        Baixar histórias de usuários  
+- tagged          Obter lista de usuários marcados por destino
+- wcommented      Obtenha uma lista de usuários que comentaram as fotos do alvo
+- wtagged        Obtenha uma lista de usuários que marcaram o alvo
+```    
 
+    # Como Usar tanto do ```linux``` ou ```termux```
+
+```
+python3 main.py gilmar034 
+```
 
 
