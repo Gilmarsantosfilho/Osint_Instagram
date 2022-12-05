@@ -84,16 +84,19 @@ O Osintgram oferece um shell interativo para realizar análises na conta do Inst
 - wtagged        Obtenha uma lista de usuários que marcaram o alvo
 ```    
     
-# Como Usar tanto do ```linux``` ou ```termux```
-
-```
-python3 main.py gilmar034 
-```
-
 \[Já Vem com minhas Chave api\]
 \[Se quiser usar  a sua Chave api\]
 
 | Serviço | api| Estado 
 | :--- | :--- | :--- |
 | [virus total](https://www.virustotal.com/)| 8d3c5a89f221d64bba98a43414ec4a2d314d7b3450c9bd0874e7fd9d96333652 | :white\_check\_mark: :key: |
+    
+    
+# Como Usar tanto do ```linux``` ou ```termux```
+
+```
+python3 main.py gilmar034 
+```
+
+
 
