@@ -1,3 +1,8 @@
+ #### Testado em:
+
+- [x] Termux
+ 
+ 
  Clique na imagem para instalar ⚙️ termux!   
      
  <p align="center">
