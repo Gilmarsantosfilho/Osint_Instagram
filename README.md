@@ -13,7 +13,9 @@
 ## Instação no  ```Termux```
 
 
-# OBRIGRATORIO    ```apt install python3.10-venv```
+# OBRIGRATORIO    
+
+```pip3 install virtualenv```
 
 
 ```
