@@ -1,0 +1,9 @@
+pip install requests
+pip install requests-toolbelt
+pip install geopy
+pip install prettytable
+pip install instagram-private-api
+pip install gnureadline
+pip install pyreadline
+
+
