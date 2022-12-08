@@ -19,9 +19,8 @@
 
 
 ```
-git clone https://github.com/jovemsigilosodobembr/Osintgrams.git
-```
-```
+git clone https://github.com/Gilmarsantosfilho/Osint_Instagram
+
 cd Osintgrams
 ```
 
@@ -54,7 +53,7 @@ python3 -m venv venv
 ```
 
 ```
-pip install -r requirements.txt
+bash requirements
 ```
 
 -----------------------
