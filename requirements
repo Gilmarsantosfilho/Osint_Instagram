@@ -5,5 +5,3 @@ pip install prettytable
 pip install instagram-private-api
 pip install gnureadline
 pip install pyreadline
-
-
