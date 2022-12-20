@@ -195,7 +195,7 @@ while True:
     elif cmd == "":
         print("")
     else:
-        pc.printout("Unknown command\n", pc.RED)
+        pc.printout(Comando desconhecido\n", pc.RED)
 
     if args.command:
         break
